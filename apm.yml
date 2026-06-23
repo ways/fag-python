@@ -1,0 +1,14 @@
+name: fag-python
+version: 0.1.0
+description: Demo of a skill, fag-python, for python developers as Met.no. Only meant as a demo, not production!
+author: Lars Falk-Petersen
+# Which agent platforms to deploy to (uncomment to pin):
+# targets:
+#   - copilot
+#   - claude
+
+dependencies:
+  apm: []
+  mcp: []
+includes: auto
+scripts: {}
