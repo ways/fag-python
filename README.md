@@ -12,13 +12,13 @@ In your python based project:
 ```yaml
 dependencies:
   apm:
-    - ways/fag-python-demo.git#v1.0.0
+    - ways/fag-python-demo.git#v1.1.0
 ```
 
 ```yaml
 dependencies:
   apm:
-    - git@gitlab.met.no:larsfp/fag-python-demo.git#v1.0.0
+    - git@gitlab.met.no:larsfp/fag-python-demo.git#v1.1.0
 ```
 
 - Run `apm install --refresh --ssh`
