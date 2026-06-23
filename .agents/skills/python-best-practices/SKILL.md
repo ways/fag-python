@@ -1,7 +1,7 @@
 ---
 name: python-best-practices
 description: >-
-  Activate when the project is using python or a python related task is given. Hello world.
+  Activate when the project is using python or a python related task is given.
 ---
 
 # Python Best Practices Skill
